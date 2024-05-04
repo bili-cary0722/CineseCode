@@ -1,6 +1,6 @@
 # How to use？
 ## clone本仓库到本地，在main.cpp中写代码就行了
-## 具体的用法请查看cn-coding.h中的代码
+## 具体的用法请查看cn-coding.h中的代码和示例程序（example.cpp）
 
 # Write at the end
 ## 本项目仅用于学习交流，请勿用于商业用途！如有违反，必遭严惩！
